@@ -1,0 +1,2 @@
+source venvClientSim/bin/activate
+uvicorn main:app --reload
